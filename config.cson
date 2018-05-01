@@ -1,4 +1,6 @@
 "*":
+  "atom-clock":
+    dateFormat: "MMMM Do, dddd, HH:mm"
   "atom-python-virtualenv":
     getWorkOnHome: "$HOME/.venv"
   "autocomplete-python":
