@@ -1,0 +1,18 @@
+packages: [
+  "atom-clock"
+  "atom-python-virtualenv"
+  "atom-terminal"
+  "autocomplete-python"
+  "battery-status"
+  "darkpython-syntax"
+  "git-plus"
+  "material-monokai-syntax"
+  "minimap"
+  "open-terminal-here"
+  "package-sync"
+  "platformio-ide-terminal"
+  "python-autopep8"
+  "remote-edit-ni"
+  "script"
+  "seti-ui"
+]

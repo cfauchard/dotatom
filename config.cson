@@ -1,0 +1,11 @@
+"*":
+  "atom-python-virtualenv":
+    getWorkOnHome: "$HOME/.venv"
+  "autocomplete-python":
+    useKite: false
+  core:
+    telemetryConsent: "limited"
+  "exception-reporting":
+    userId: "5c40ef11-e401-4a23-ac26-64fe946e3a42"
+  welcome:
+    showOnStartup: false
