@@ -20,5 +20,7 @@
       theme: "predawn"
     toggles:
       autoClose: true
+  script:
+    cwdBehavior: "Directory of the script"
   welcome:
     showOnStartup: false
