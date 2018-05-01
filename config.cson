@@ -7,7 +7,18 @@
     useKite: false
   core:
     telemetryConsent: "limited"
+    themes: [
+      "atom-dark-ui"
+      "atom-dark-syntax"
+    ]
   "exception-reporting":
     userId: "5c40ef11-e401-4a23-ac26-64fe946e3a42"
+  "platformio-ide-terminal":
+    core:
+      workingDirectory: "Active File"
+    style:
+      theme: "predawn"
+    toggles:
+      autoClose: true
   welcome:
     showOnStartup: false
