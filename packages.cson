@@ -16,6 +16,7 @@ packages: [
   "python-autopep8"
   "remote-atom"
   "remote-edit-ni"
+  "revert-buffer"
   "script"
   "seti-ui"
 ]
