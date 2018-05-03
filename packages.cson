@@ -14,6 +14,7 @@ packages: [
   "package-sync"
   "platformio-ide-terminal"
   "python-autopep8"
+  "remote-atom"
   "remote-edit-ni"
   "script"
   "seti-ui"

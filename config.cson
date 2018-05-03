@@ -20,6 +20,13 @@
       theme: "predawn"
     toggles:
       autoClose: true
+  "remote-atom":
+    launch_at_startup: true
+  "remote-edit-ni":
+    filterHostsUsing:
+      alias: true
+    rememberLastOpenDirectory: true
+    showHiddenFiles: true
   script:
     cwdBehavior: "Directory of the script"
   welcome:
